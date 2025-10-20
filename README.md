@@ -35,7 +35,8 @@ This project presents an *interactive Power BI dashboard* analyzing Superstore s
 - *Consumer segment* contributes nearly half of total sales.  
 - *Seasonal trends* visible with sales peaks around year-end months.
   
-
+### ![Dashboard Preview]
+(Super_Store_Dashboard_ss.png)
 ---
 
 ### 🔗 Author
