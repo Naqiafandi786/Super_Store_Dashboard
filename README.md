@@ -1,5 +1,10 @@
 # 📊 Superstore Sales Dashboard (Power BI)
 
+![Dashboard Preview](Super_Store_Dashboard_ss.png)
+
+### Overview
+This project presents an interactive Power BI dashboard...
+
 ### 🔍 Overview
 This project presents an *interactive Power BI dashboard* analyzing Superstore sales performance across different categories, regions, and time periods. It highlights key insights on sales, profit, and customer segments to support data-driven decision-making.
 
@@ -35,11 +40,10 @@ This project presents an *interactive Power BI dashboard* analyzing Superstore s
 - *Consumer segment* contributes nearly half of total sales.  
 - *Seasonal trends* visible with sales peaks around year-end months.
   
-### ![Dashboard Preview]
-(Super_Store_Dashboard_ss.png)
+
 ---
 
 ### 🔗 Author
-*Ali Naqi*  
-📧 naqi.ali@gmail.com  
-🌐 [LinkedIn](https://linkedin.com/in/yourprofile) | 💻 [GitHub](https://github.com/yourusername)
+*Naqi Afandi*  
+📧 alinaqiafandi@gmail.com  
+🌐 [LinkedIn](www.linkedin.com/in/naqi-afandi) | 💻 [GitHub](https://github.com/Naqiafandi786)
