@@ -9,6 +9,10 @@ This project presents an interactive Power BI dashboard...
 This project presents an *interactive Power BI dashboard* analyzing Superstore sales performance across different categories, regions, and time periods. It highlights key insights on sales, profit, and customer segments to support data-driven decision-making.
 
 ---
+### 🗂 Files Included
+- Super_Store_Dashboard.pbix – Power BI dashboard file  
+- Superstore_Data.csv – Dataset used for visualization  
+- Super_Store_Dashboard_ss.png – Dashboard preview image
 
 ### 📈 Key Features
 - *Dynamic visualizations* for Sales, Profit, and Quantity by Category and Sub-Category  
